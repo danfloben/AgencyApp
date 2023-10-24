@@ -1,0 +1,11 @@
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Repository\bin\Debug\net6.0\AgencyApp.Repositories.deps.json
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Repository\bin\Debug\net6.0\AgencyApp.Repositories.dll
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Repository\bin\Debug\net6.0\AgencyApp.Repositories.pdb
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Repository\obj\Debug\net6.0\AgencyApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Repository\obj\Debug\net6.0\AgencyApp.Repositories.AssemblyInfoInputs.cache
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Repository\obj\Debug\net6.0\AgencyApp.Repositories.AssemblyInfo.cs
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Repository\obj\Debug\net6.0\AgencyApp.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Repository\obj\Debug\net6.0\AgencyApp.Repositories.dll
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Repository\obj\Debug\net6.0\refint\AgencyApp.Repositories.dll
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Repository\obj\Debug\net6.0\AgencyApp.Repositories.pdb
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Repository\obj\Debug\net6.0\ref\AgencyApp.Repositories.dll

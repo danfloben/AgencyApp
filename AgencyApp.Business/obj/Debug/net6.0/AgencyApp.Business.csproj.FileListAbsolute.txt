@@ -1,0 +1,15 @@
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.csproj.AssemblyReference.cache
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.AssemblyInfoInputs.cache
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.AssemblyInfo.cs
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.Business.deps.json
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.Business.dll
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.Business.pdb
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.Data.dll
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.Data.pdb
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.csproj.CopyComplete
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.dll
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\obj\Debug\net6.0\refint\AgencyApp.Business.dll
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.pdb
+C:\Users\danfl\Desktop\AgencyApp\AgencyApp.Business\obj\Debug\net6.0\ref\AgencyApp.Business.dll
